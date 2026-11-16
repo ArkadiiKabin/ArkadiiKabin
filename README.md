@@ -1,81 +1,83 @@
 <div align="center">
 
-# ARKADII KABIN
+# АРКАДИЙ КАБИН
 
-### C++ GAME & SOFTWARE DEVELOPER
+### C++ РАЗРАБОТЧИК · GAME DEVELOPMENT
 
-`CODE` · `CREATE` · `EXPLORE`
+`СОЗДАВАТЬ` · `РАЗРАБАТЫВАТЬ` · `ИССЛЕДОВАТЬ`
 
-![Pixel Art Banner](tmb_203081_5064.jpg)
+![Саске](tmb_203081_5064.jpg)
 
-**Game Development · Software Engineering · Algorithms · Web Technologies**
+<img src="intro.gif" width="600" alt="Шаринган">
+
+*Разработка игр · Программирование · Алгоритмы · Информационные технологии*
 
 </div>
 
 ---
 
-## ABOUT ME
+## ОБО МНЕ
 
-Junior Software Developer focused on C++, game development and software engineering.
+Начинающий разработчик программного обеспечения с основным направлением C++ и разработкой компьютерных игр.
 
-Interested in building applications, developing game mechanics, implementing algorithms and exploring different areas of software development.
+Интересуюсь созданием игровых механик, проектированием программных систем, алгоритмами и разработкой приложений.
 
-Currently studying Computer Science and Computer Engineering while working on personal programming projects and improving practical development skills.
+В настоящее время обучаюсь по направлению «Информатика и вычислительная техника», развиваю практические навыки программирования и работаю над собственными проектами.
 
-- Main programming language: **C++**
-- Primary specialization: **Game Development**
-- Additional interests: Python, Web Development and Desktop Applications
-- Development environment: Linux
-- Main personal project: Dungeon Explorer
-
----
-
-## EDUCATION
-
-**Novgorod State University named after Yaroslav the Wise**
-
-Bachelor's Degree — Computer Science and Computer Engineering
-
-2025–2029
-
-Currently studying programming, computer science and software engineering.
+- Основной язык программирования — C++.
+- Основное направление — Game Development.
+- Дополнительные направления — Python, Web Development, Desktop Development.
+- Операционная система — Linux.
+- Главный проект — Dungeon Explorer.
 
 ---
 
-## TECHNICAL SKILLS
+## ОБРАЗОВАНИЕ
 
-### Programming Languages
+**Новгородский государственный университет имени Ярослава Мудрого**
 
-| Language | Knowledge |
+Направление: Информатика и вычислительная техника.
+
+Степень: бакалавриат.
+
+2025–2029.
+
+---
+
+## ТЕХНИЧЕСКИЕ НАВЫКИ
+
+### Языки программирования
+
+| Технология | Направление |
 |:---|:---|
-| C++ | Main programming language |
-| Python | Fundamentals and programming practice |
-| PHP | Web development fundamentals |
-| JavaScript | Learning and practice |
-| SQL | Database fundamentals |
-| HTML | Web page structure |
-| CSS | Styling and layout |
+| C++ | Основной язык разработки |
+| Python | Основы программирования |
+| PHP | Основы веб-разработки |
+| JavaScript | Изучение и практика |
+| SQL | Основы работы с базами данных |
+| HTML | Структура веб-страниц |
+| CSS | Стилизация и оформление |
 
-### Game Development
+### Разработка игр
 
-- C++ game development
-- SFML 3.0.2
-- 2D game development fundamentals
-- Game mechanics and application logic
-- Procedural generation
-- Graph-based game systems
-- Pathfinding algorithms
+- Разработка приложений на C++.
+- Работа с библиотекой SFML.
+- Основы разработки 2D-игр.
+- Создание игровой логики.
+- Процедурная генерация.
+- Графовые структуры.
+- Алгоритмы поиска пути.
 
-### Software Development
+### Программная инженерия
 
-- Object-oriented programming fundamentals
-- Algorithms and data structures
-- Graph theory fundamentals
-- Application architecture
-- Debugging and testing
-- Working with external libraries
+- Объектно-ориентированное программирование.
+- Алгоритмы и структуры данных.
+- Основы теории графов.
+- Проектирование программных систем.
+- Отладка и тестирование.
+- Работа со сторонними библиотеками.
 
-### Tools & Technologies
+### Инструменты и технологии
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -93,108 +95,104 @@ Currently studying programming, computer science and software engineering.
 
 ---
 
-## FEATURED PROJECT
+## ИЗБРАННЫЙ ПРОЕКТ
 
 ### Dungeon Explorer
 
-[![Repository](https://img.shields.io/badge/GitHub-Dungeon_Explorer-181717?style=for-the-badge&logo=github)](https://github.com/ArkadiiKabin/project-graph)
+[![Репозиторий](https://img.shields.io/badge/GitHub-Dungeon_Explorer-181717?style=for-the-badge&logo=github)](https://github.com/ArkadiiKabin/project-graph)
 
-A C++17 application focused on procedural dungeon generation, graph structures and pathfinding algorithm visualization.
+Приложение на C++17 для процедурной генерации подземелий, работы с графами и визуализации алгоритмов поиска пути.
 
-**Core Features**
+**Основные возможности:**
 
-- Procedural dungeon generation.
-- Room connections represented as a graph.
-- Breadth-First Search (BFS).
-- Depth-First Search (DFS).
-- Dijkstra's shortest path algorithm.
-- Configurable generation parameters.
-- Graph traversal and pathfinding visualization.
-- Automated unit testing.
+- Процедурная генерация комнат.
+- Создание графа соединений между комнатами.
+- Поиск в ширину (BFS).
+- Поиск в глубину (DFS).
+- Алгоритм Дейкстры.
+- Настройка параметров генерации.
+- Визуализация обхода графа и поиска пути.
+- Автоматизированное тестирование.
 
-**Technology Stack**
+**Технологии:** C++17 · SFML 3.0.2 · CMake · GoogleTest
 
-`C++17` `SFML 3.0.2` `CMake` `GoogleTest`
+**Тестирование:** 103 успешно пройденных теста.
 
-**Testing**
-
-103 passing automated tests.
-
-**Future Development**
+**Планы развития:**
 
 - Adventure Mode.
-- Combat mechanics.
-- Interactive dungeon exploration.
-- Additional game systems.
+- Боевая система.
+- Интерактивное исследование подземелий.
+- Новые игровые механики.
 - Dungeon Editor.
 
+[ОТКРЫТЬ РЕПОЗИТОРИЙ](https://github.com/ArkadiiKabin/project-graph)
+
 ---
 
-## CERTIFICATIONS & COURSES
+## СЕРТИФИКАТЫ И ОБУЧЕНИЕ
 
-Completed courses and educational programs.
+Пройденные образовательные программы и курсы.
 
-### Programming & Software Development
+### Программирование и IT
 
-| Course | Result | Certificate |
-|:---|:---:|:---|
-| "Поколение Python": курс для начинающих | 100% | [View](https://stepik.org/cert/2615322) |
-| Войти в IT | 94% | [View](https://stepik.org/cert/2652101) |
+| Курс | Результат |
+|:---|:---:|
+| [«Поколение Python»: курс для начинающих](https://stepik.org/cert/2615322) | 100% |
+| [Войти в IT](https://stepik.org/cert/2652101) | 94% |
 
-### Web Development
+### Веб-разработка
 
-| Course | Result | Certificate |
-|:---|:---:|:---|
-| HTML CSS JS (lite) | With Honors | [View](https://stepik.org/cert/2631559) |
-| Веб-разработка для начинающих: HTML и CSS | 100% | [View](https://stepik.org/cert/2615370) |
-| Веб-технологии: начальный уровень | 100% | [View](https://stepik.org/cert/2615032) |
-| ОСНОВЫ Html & CSS | 100% | [View](https://stepik.org/cert/2601890) |
+| Курс | Результат |
+|:---|:---:|
+| [HTML CSS JS (lite)](https://stepik.org/cert/2631559) | С отличием |
+| [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/cert/2615370) | 100% |
+| [Веб-технологии: начальный уровень](https://stepik.org/cert/2615032) | 100% |
+| [Основы HTML & CSS](https://stepik.org/cert/2601890) | 100% |
 
-### Computer Science & Digital Skills
+### Цифровая грамотность
 
-| Course | Result | Certificate |
-|:---|:---:|:---|
-| Безопасность в интернете | 100% | [View](https://stepik.org/cert/2601910) |
-| Stepik для учащихся: первые шаги | 100% | [View](https://stepik.org/cert/2617630) |
+| Курс | Результат |
+|:---|:---:|
+| [Безопасность в интернете](https://stepik.org/cert/2601910) | 100% |
+| [Stepik для учащихся: первые шаги](https://stepik.org/cert/2617630) | 100% |
 
-### Additional Education
+### Дополнительное образование
 
-| Course | Certificate |
+| Курс | Результат |
+|:---|:---:|
+| [Разработка мобильных приложений для Android](https://stepik.org/cert/2750248) | С отличием |
+
+---
+
+## ДОПОЛНИТЕЛЬНЫЕ ПРОЕКТЫ И ОБУЧЕНИЕ
+
+- Выпускной проект — ITC, 2024.
+- Разработка Landing Page, 2024.
+- Проект интернет-магазина техники «Юный техник», 2024.
+- Социальная психология — ИНТУИТ, 2025.
+
+---
+
+## ПЛАНЫ РАЗВИТИЯ
+
+| Направление | Статус |
 |:---|:---|
-| Разработка мобильных приложений для Android | [View — With Honors](https://stepik.org/cert/2750248) |
+| C++ | Основное направление |
+| Game Development | В процессе |
+| SFML | Практика |
+| Алгоритмы и структуры данных | Изучение и практика |
+| Python | Изучение и практика |
+| HTML и CSS | Основы |
+| JavaScript | Изучение |
+| Desktop Applications | В процессе |
+| 2D Action-Adventure Games | В планах |
+| Разработка 8-bit игр | В планах |
+| Архитектура ПО | Совершенствование |
 
 ---
 
-## ADDITIONAL LEARNING
-
-Other educational activities and completed projects:
-
-- Social Psychology — INTUIT, 2025.
-- Graduation Project — ITC, 2024.
-- Landing Page Development — 2024.
-- Electronics Store Website Project — 2024.
-
----
-
-## DEVELOPMENT ROADMAP
-
-| Direction | Status |
-|:---|:---|
-| C++ Programming | Main Focus |
-| Game Development | In Progress |
-| SFML | In Progress |
-| Algorithms & Data Structures | In Progress |
-| Python | Learning & Practice |
-| HTML & CSS | Fundamentals |
-| JavaScript | Learning |
-| Desktop Applications | Interested |
-| 2D Action-Adventure Games | Planned |
-| 8-bit Game Development | Planned |
-| Software Architecture | Improving |
-
----
-
-## GITHUB STATISTICS
+## СТАТИСТИКА GITHUB
 
 <div align="center">
 
@@ -208,7 +206,7 @@ Other educational activities and completed projects:
 
 ---
 
-## CONTRIBUTION ACTIVITY
+## АКТИВНОСТЬ
 
 <div align="center">
 
@@ -218,13 +216,13 @@ Other educational activities and completed projects:
 
 ---
 
-## CONTACT
+## КОНТАКТЫ
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ArkadiiKabin-181717?style=for-the-badge&logo=github)](https://github.com/ArkadiiKabin)
 
-[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/almostawakex)
+[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/almostawakex)
 
 </div>
 
@@ -232,6 +230,6 @@ Other educational activities and completed projects:
 
 <div align="center">
 
-`KEEP BUILDING · KEEP LEARNING · KEEP EXPLORING`
+**ПРОДОЛЖАТЬ СОЗДАВАТЬ · ИЗУЧАТЬ · РАЗВИВАТЬСЯ**
 
 </div>
