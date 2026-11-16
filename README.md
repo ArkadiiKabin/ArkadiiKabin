@@ -8,7 +8,7 @@
 
 Game Development · Software Engineering · Algorithms
 
-![Pixel Art Banner](assets/profile-banner.png)
+![Pixel Art Banner](tmb_203081_5064.jpg)
 
 </div>
 
