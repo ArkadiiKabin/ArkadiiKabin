@@ -7,6 +7,7 @@
 `CODE` · `CREATE` · `EXPLORE`
 
 ![Pixel Art Banner](tmb_203081_5064.jpg)
+![Profile Intro](doc_2026-11-16_07-28-06.mp4)
 
 *Game Development · Software Engineering · Algorithms*
 
