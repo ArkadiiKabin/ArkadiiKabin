@@ -6,7 +6,7 @@
 
 `CODE` · `CREATE` · `EXPLORE`
 
-![Pixel Art Banner](assets/profile-banner.png)
+![Pixel Art Banner](tmb_203081_5064.jpg)
 
 *Game Development · Software Engineering · Algorithms*
 
