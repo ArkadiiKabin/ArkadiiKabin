@@ -2,195 +2,162 @@
 
 # ianWe
 
-### C++ РАЗРАБОТЧИК · GAME DEVELOPMENT
+**C++ Developer · Game Development**
 
-`ПИТЬ ПИВО` · `РАЗРАБАТЫВАТЬ` · `ИГРАТЬ В ТАНКИ`
+`CODE` · `BUILD` · `REPEAT`
 
-<img src="intro.gif" width="600" alt="Шаринган">
+<img src="intro.gif" width="600" alt="Sharingan">
 
-*Разработка игр · Программирование · Алгоритмы · Информационные технологии*
+*Building things, breaking things, learning how to build them better.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-ArkadiiKabin-181717?style=flat-square&logo=github)](https://github.com/ArkadiiKabin)
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-26A5E4?style=flat-square&logo=telegram)](https://t.me/almostawakex)
 
 </div>
 
 ---
 
-## ОБО МНЕ
+## About
 
-Начинающий разработчик программного обеспечения с основным направлением C++ и разработкой компьютерных игр.
+Начинающий разработчик с основным фокусом на **C++ и Game Development**.
 
-Интересуюсь созданием игровых механик, проектированием программных систем, алгоритмами и разработкой приложений.
+Интересуюсь разработкой игр, алгоритмами, архитектурой программного обеспечения и созданием собственных приложений.
 
-В настоящее время обучаюсь по направлению «Информатика и вычислительная техника», развиваю практические навыки программирования и работаю над собственными проектами.
+Сейчас учусь, экспериментирую с технологиями и постепенно превращаю идеи в рабочие проекты.
 
-- Основной язык программирования — C++.
+- Основной язык — C++.
 - Основное направление — Game Development.
-- Дополнительные направления — Python, Web Development, Desktop Development.
-- Операционная система — Linux.
+- Работаю с Linux.
+- Изучаю Python, JavaScript и Web Development.
 - Главный проект — Dungeon Explorer.
 
 ---
 
-## ОБРАЗОВАНИЕ
+## Education
 
 **Новгородский государственный университет имени Ярослава Мудрого**
 
-Направление: Информатика и вычислительная техника.
-
-Степень: бакалавриат.
-
-2025–2029.
+Информатика и вычислительная техника  
+Бакалавриат · 2025–2029
 
 ---
 
-## ТЕХНИЧЕСКИЕ НАВЫКИ
+## Tech Stack
 
-### Языки программирования
+### Languages
 
-| Технология | Направление |
-|:---|:---|
-| C++ | Основной язык разработки |
-| Python | Основы программирования |
-| PHP | Основы веб-разработки |
-| JavaScript | Изучение и практика |
-| SQL | Основы работы с базами данных |
-| HTML | Структура веб-страниц |
-| CSS | Стилизация и оформление |
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Разработка игр
+### Tools & Technologies
 
-- Разработка приложений на C++.
-- Работа с библиотекой SFML.
-- Основы разработки 2D-игр.
-- Создание игровой логики.
-- Процедурная генерация.
-- Графовые структуры.
-- Алгоритмы поиска пути.
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=flat-square)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=flat-square&logo=googletest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### Программная инженерия
+### Areas of Interest
 
-- Объектно-ориентированное программирование.
-- Алгоритмы и структуры данных.
-- Основы теории графов.
-- Проектирование программных систем.
-- Отладка и тестирование.
-- Работа со сторонними библиотеками.
-
-### Инструменты и технологии
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)
-![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
-![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&logo=googletest&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Object-Oriented Programming
+- Algorithms & Data Structures
+- Graph Theory
+- Procedural Generation
+- Game Mechanics
+- Software Architecture
 
 ---
 
-## ИЗБРАННЫЙ ПРОЕКТ
+## Featured Project
 
 ### Dungeon Explorer
 
-[![Репозиторий](https://img.shields.io/badge/GitHub-Dungeon_Explorer-181717?style=for-the-badge&logo=github)](https://github.com/ArkadiiKabin/project-graph)
+[![Dungeon Explorer](https://img.shields.io/badge/PROJECT-Dungeon_Explorer-181717?style=for-the-badge&logo=github)](https://github.com/ArkadiiKabin/project-graph)
+[![CI](https://github.com/ArkadiiKabin/project-graph/actions/workflows/cmake-multi-platform.yml/badge.svg?branch=main)](https://github.com/ArkadiiKabin/project-graph/actions/workflows/cmake-multi-platform.yml)
 
-Приложение на C++17 для процедурной генерации подземелий, работы с графами и визуализации алгоритмов поиска пути.
+C++17 application for procedural dungeon generation, graph algorithms and pathfinding visualization.
 
-**Основные возможности:**
+**Features**
 
-- Процедурная генерация комнат.
-- Создание графа соединений между комнатами.
-- Поиск в ширину (BFS).
-- Поиск в глубину (DFS).
-- Алгоритм Дейкстры.
-- Настройка параметров генерации.
-- Визуализация обхода графа и поиска пути.
-- Автоматизированное тестирование.
+- Procedural dungeon generation.
+- Weighted graph generation.
+- BFS, DFS and Dijkstra algorithms.
+- Interactive path visualization.
+- Configurable generation parameters.
+- Automated testing with GoogleTest.
 
-**Технологии:** C++17 · SFML 3.0.2 · CMake · GoogleTest
+**Tech:** C++17 · SFML 3.0.2 · CMake · GoogleTest
 
-**Тестирование:** 90 успешно пройденных теста.
+**Tests:** 90 automated tests.
 
-**Планы развития:**
+**What's next?**
 
 - Adventure Mode.
-- Боевая система.
-- Интерактивное исследование подземелий.
-- Новые игровые механики.
+- Combat mechanics.
+- Interactive dungeon exploration.
 - Dungeon Editor.
 
-[ОТКРЫТЬ РЕПОЗИТОРИЙ](https://github.com/ArkadiiKabin/project-graph)
+[Explore repository →](https://github.com/ArkadiiKabin/project-graph)
 
 ---
 
-## СЕРТИФИКАТЫ И ОБУЧЕНИЕ
+## Certificates
 
-Пройденные образовательные программы и курсы.
+### Programming & IT
 
-### Программирование и IT
-
-| Курс | Результат |
+| Course | Result |
 |:---|:---:|
-| [«Поколение Python»: курс для начинающих](https://stepik.org/cert/2615322) | 100% |
-| [Войти в IT](https://stepik.org/cert/2652101) | 94% |
+| [Python Generation — Beginner](https://stepik.org/cert/2615322) | 100% |
+| [Getting into IT](https://stepik.org/cert/2652101) | 94% |
 
-### Веб-разработка
+### Web Development
 
-| Курс | Результат |
+| Course | Result |
 |:---|:---:|
-| [HTML CSS JS (lite)](https://stepik.org/cert/2631559) | С отличием |
-| [Веб-разработка для начинающих: HTML и CSS](https://stepik.org/cert/2615370) | 100% |
-| [Веб-технологии: начальный уровень](https://stepik.org/cert/2615032) | 100% |
-| [Основы HTML & CSS](https://stepik.org/cert/2601890) | 100% |
+| [HTML CSS JS (lite)](https://stepik.org/cert/2631559) | With distinction |
+| [Web Development: HTML & CSS](https://stepik.org/cert/2615370) | 100% |
+| [Web Technologies: Beginner](https://stepik.org/cert/2615032) | 100% |
+| [HTML & CSS Fundamentals](https://stepik.org/cert/2601890) | 100% |
 
-### Цифровая грамотность
+### Other
 
-| Курс | Результат |
+| Course | Result |
 |:---|:---:|
-| [Безопасность в интернете](https://stepik.org/cert/2601910) | 100% |
-| [Stepik для учащихся: первые шаги](https://stepik.org/cert/2617630) | 100% |
-
-### Дополнительное образование
-
-| Курс | Результат |
-|:---|:---:|
-| [Разработка мобильных приложений для Android](https://stepik.org/cert/2750248) | С отличием |
+| [Internet Security](https://stepik.org/cert/2601910) | 100% |
+| [Stepik for Students](https://stepik.org/cert/2617630) | 100% |
+| [Android Application Development](https://stepik.org/cert/2750248) | With distinction |
 
 ---
 
-## ДОПОЛНИТЕЛЬНЫЕ ПРОЕКТЫ И ОБУЧЕНИЕ
+## Other Experience
 
-- Выпускной проект — ITC, 2024.
-- Разработка Landing Page, 2024.
-- Проект интернет-магазина техники «Юный техник», 2024.
-- Социальная психология — ИНТУИТ, 2025.
+- Graduation project — ITC, 2024.
+- Landing Page development, 2024.
+- Electronics online store project, 2024.
+- Social Psychology — INTUIT, 2025.
 
 ---
 
-## ПЛАНЫ РАЗВИТИЯ
+## Currently Learning
 
-| Направление | Статус |
+| Area | Focus |
 |:---|:---|
-| C++ | Основное направление |
-| Game Development | В процессе |
-| SFML | Практика |
-| Алгоритмы и структуры данных | Изучение и практика |
-| Python | Изучение и практика |
-| HTML и CSS | Основы |
-| JavaScript | Изучение |
-| Desktop Applications | В процессе |
-| 2D Action-Adventure Games | В планах |
-| Разработка 8-bit игр | В планах |
-| Архитектура ПО | Совершенствование |
+| C++ | Programming and software design |
+| Game Development | Game mechanics and architecture |
+| SFML | 2D application development |
+| Algorithms | Data structures and graph algorithms |
+| Python | Programming practice |
+| JavaScript | Web development |
+| Software Architecture | Improving design skills |
 
 ---
 
-## СТАТИСТИКА GITHUB
+## GitHub Stats
 
 <div align="center">
 
@@ -204,7 +171,7 @@
 
 ---
 
-## АКТИВНОСТЬ
+## Activity
 
 <div align="center">
 
@@ -214,15 +181,13 @@
 
 ---
 
-## КОНТАКТЫ
-
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-ArkadiiKabin-181717?style=for-the-badge&logo=github)](https://github.com/ArkadiiKabin)
+### Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-Написать-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/almostawakex)
+[![Telegram](https://img.shields.io/badge/Telegram-@almostawakex-26A5E4?style=flat-square&logo=telegram)](https://t.me/almostawakex)
+[![GitHub](https://img.shields.io/badge/GitHub-ArkadiiKabin-181717?style=flat-square&logo=github)](https://github.com/ArkadiiKabin)
+
+*Still learning. Still building.*
 
 </div>
-
----
-
