@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я ianWe</h1>
+<h1 align="center">ianWe</h1>
 
 <h3 align="center">C++ разработчик · Разработка игр</h3>
 
