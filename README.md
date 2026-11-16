@@ -7,9 +7,7 @@
 `CODE` · `CREATE` · `EXPLORE`
 
 ![Pixel Art Banner](tmb_203081_5064.jpg)
-<div align="center">
-  <video src="doc_2026-11-16_07-28-06.mp4" controls width="720"></video>
-</div>
+![Profile Intro](intro.gif)
 
 *Game Development · Software Engineering · Algorithms*
 
