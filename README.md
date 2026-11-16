@@ -1,4 +1,4 @@
-\<div align="center">
+<div align="center">
 
 # ARKADII KABIN
 
@@ -6,66 +6,55 @@
 
 `CODE` · `CREATE` · `EXPLORE`
 
+![Pixel Art Banner](assets/profile-banner.png)
 
+*Game Development · Software Engineering · Algorithms*
 
-\</div>
-
----
-
-\<div align="center">
-
-## ▰ CHARACTER PROFILE ▰
-
-**CLASS:** Junior Developer
-**SPECIALIZATION:** Game Development & Software Engineering
-**ENVIRONMENT:** Linux
-**MAIN LANGUAGE:** C++
-
-\</div>
+</div>
 
 ---
 
-## ▰ CHARACTER ATTRIBUTES
+## ABOUT
 
-\<table>
-\<tr>
-\<td width="50%" valign="top">
+**Junior C++ Developer** focused on game development, software engineering and algorithmic problem solving.
 
-### Programming Languages
-
-- C++ — Main
-- Python
-- PHP
-- JavaScript — Learning
-
-\</td>
-\<td width="50%" valign="top">
-
-### Technologies
-
-- SFML
-- CMake
-- GoogleTest
-- Git & GitHub
-- SQL
-- Linux
-
-\</td> \</tr> \</table>
+| Attribute | Value |
+|:---|:---|
+| Class | Game & Software Developer |
+| Main Language | C++ |
+| Environment | Linux |
+| Current Focus | Game Development |
+| Main Project | Dungeon Explorer |
 
 ---
 
-## ▰ QUEST LOG
+## SKILLS & TECHNOLOGIES
 
-### Main Quest — Dungeon Explorer
+**Programming Languages**
 
-\<table> \<tr> \<td>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-**Dungeon Explorer**
+**Tools & Technologies**
 
-C++17 application for procedural dungeon generation and pathfinding visualization.
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white)
+![GoogleTest](https://img.shields.io/badge/GoogleTest-4285F4?style=for-the-badge&logo=googletest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## FEATURED PROJECT
+
+### Dungeon Explorer
+
+A C++17 application for procedural dungeon generation and pathfinding visualization.
 
 **Features**
-
 - Procedural room generation
 - Graph-based dungeon structure
 - Breadth-First Search (BFS)
@@ -74,59 +63,53 @@ C++17 application for procedural dungeon generation and pathfinding visualizatio
 - Generation settings
 - Automated testing
 
-`C++17` `SFML 3.0.2` `CMake` `GoogleTest`
+**Stack:** C++17 · SFML 3.0.2 · CMake · GoogleTest
 
-**Test status:** 103 passing tests
+**Tests:** 103 passing
 
-[OPEN PROJECT REPOSITORY](https://github.com/ArkadiiKabin/project-graph)
-
-\</td>
-\</tr>
-\</table>
+[VIEW PROJECT](https://github.com/ArkadiiKabin/project-graph)
 
 ---
 
-## ▰ DEVELOPMENT PATH
+## DEVELOPMENT ROADMAP
 
-| Quest                     | Status      |
-| ------------------------- | ----------- |
-| Game Development          | In Progress |
-| 2D Action-Adventure Games | Planned     |
-| 8-bit Projects            | Planned     |
-| Desktop Applications      | In Progress |
-| JavaScript                | Learning    |
-| Software Architecture     | Improving   |
-
----
-
-## ▰ GITHUB STATISTICS
-
-\<div align="center">
-
-
-
-
-
-
-
-\</div>
+| Area | Status |
+|:---|:---|
+| Game Development | In Progress |
+| Desktop Applications | In Progress |
+| 2D Action-Adventure Games | Planned |
+| 8-bit Projects | Planned |
+| JavaScript | Learning |
+| Software Architecture | Improving |
 
 ---
 
-## ▰ ACTIVITY MAP
+## GITHUB STATISTICS
 
-\<div align="center">
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ArkadiiKabin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArkadiiKabin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-\</div>
+<img src="https://streak-stats.demolab.com?user=ArkadiiKabin&theme=tokyonight&hide_border=true&background=0D1117" />
+
+</div>
 
 ---
 
-\<div align="center">
+## CONTRIBUTION ACTIVITY
 
-**END OF PROFILE**
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ArkadiiKabin&theme=tokyo-night&bg_color=0D1117&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
 
 `KEEP BUILDING · KEEP EXPLORING`
 
-\</div>
+</div>
